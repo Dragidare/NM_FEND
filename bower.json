@@ -4,7 +4,8 @@
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
     "modernizr": "~2.8.1",
-    "knockout": "^3.4.2"
+    "knockout": "^3.4.2",
+    "jade": "^1.11.0"
   },
   "overrides": {
     "bootstrap-sass": {
